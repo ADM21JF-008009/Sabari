@@ -1,0 +1,85 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+  <title>This is a Bootstrap example</title>  
+    
+  <meta name="viewport" content="width=device-width, initial-scale=1">  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">  
+</head>  
+<body>  
+<div class="container">  
+  <h1> First Bootstrap web page</h1>  
+  <p>Write your text here..</p>   
+</div>  
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
+</body>  
+</html>  
+
+BOOTSTRAP
+---------
+HTML,CSS & JS-Developing responsive & mobile friendly website
+Javascript plugins
+
+
+Otto &jacob @twitter.2011
+Scaffolding-Grid systesm,link styles,backgrounds
+CSS
+Component
+JS plugins
+CUstomize
+
+Bootstrap 4
+W3.css
+<meta name="viewport" content="width=device-width, initial-scale=1">  
+
+Container-wrap the site content
+.container class-responsive fixed width container
+.container-fluid--full width container(entire width of the view port)
+
+Bootstrap-grid system
+---------------------
+12 columns
+
+xs-for phones
+sm-tablets
+md-desktop
+lg-larger desktop
+
+.col-(extra small devices-less than 576px)
+.col-sm(small devices-equal to greater than 576px)
+.col-md(medium devices-equal to greater than 768px)
+.col-lg(large device-equal to greater than 992px)
+.col-xl(xlarge devoces-equal to greater than 1200px)
+
+
+Navigation Bar
+-------------
+Header
+<nav class="navbar">
+
+badges-highlight new or uread items
+
+Bootstrap list
+--------------
+create a group of list with list items 
+
+Bootstrap Forms
+----------------
+1.Vertical form-default
+2.Horizontal
+3.Inline form
+
+<form role="form>
+<div class="form-group>
+.form-control ,input,text area,select
+
+
+
+
+
+
+
+
+
